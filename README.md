@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Automotive Auction](https://github.com/txin214/Auctions)
+- 🔭 I’m currently working on [Automotive Auction APP(deployment part)](https://github.com/txin214/Auctions)
 
 - 🌱 I’m currently learning **Kubernetes, AWS**
 
