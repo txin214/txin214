@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tianshu</h1>
 <h3 align="center">A recent cs graduate from UW Madison</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=txin214&label=Profile%20views&color=0e75b6&style=flat" alt="txin214" /> </p>
+
 
 
 
