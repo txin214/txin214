@@ -4,11 +4,6 @@
 
 
 
-
-- 🔭 I’m currently working on [Automotive Auction APP(deployment part)](https://github.com/txin214/Auctions)
-
-- 🌱 I’m currently learning **Kubernetes, AWS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/txin214](https://github.com/txin214)
 
 - 📫 How to reach me **1090062661l@gmail.com**
